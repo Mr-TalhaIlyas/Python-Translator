@@ -25,3 +25,8 @@ translate_text = translator.translate('G:/Data/southern_crabgrass/images/바랭�
                                        lang_tgt='en') # destination language en=> english
 print(translate_text)
 ```
+**Output**
+
+```
+G: / DATA / SOUTHERN_CRABGRASS / Images / Barnes -DAT15 (45 degrees -1) .jpg 
+```
