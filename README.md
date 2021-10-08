@@ -1,11 +1,14 @@
 # Python-Translator
 
 For translating the text (e.g., filenames, descriptions etc.) using python scripts.
-`
+```
 pip install google_trans_new==1.1.9
-`
+```
 
-Then open the `google_trans_new/google_trans_new.py` file and cange line `151` in that file from `response = (decoded_line + ']')` to `response = decoded_line`
+Then open the `google_trans_new/google_trans_new.py` file and cange line `151` in that file from 
+```response = (decoded_line + ']')```
+to 
+```response = decoded_line```
 
 
 Now you can use it as follows,
