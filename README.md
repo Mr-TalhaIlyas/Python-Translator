@@ -5,9 +5,13 @@ For translating the text (e.g., filenames, descriptions etc.) using python scrip
 pip install google_trans_new==1.1.9
 ```
 
-Then open the `google_trans_new/google_trans_new.py` file and cange line `151` in that file from 
+Then open the `google_trans_new/google_trans_new.py` file and cange line `151` in that file from
+
+
 ```response = (decoded_line + ']')```
+
 to 
+
 ```response = decoded_line```
 
 
